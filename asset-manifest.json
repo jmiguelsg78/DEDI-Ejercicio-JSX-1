@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dedi-ejercicio-uno/static/css/main.f855e6bc.css",
+    "main.js": "/dedi-ejercicio-uno/static/js/main.29b38f61.js",
+    "static/js/453.1e753b03.chunk.js": "/dedi-ejercicio-uno/static/js/453.1e753b03.chunk.js",
+    "index.html": "/dedi-ejercicio-uno/index.html",
+    "main.f855e6bc.css.map": "/dedi-ejercicio-uno/static/css/main.f855e6bc.css.map",
+    "main.29b38f61.js.map": "/dedi-ejercicio-uno/static/js/main.29b38f61.js.map",
+    "453.1e753b03.chunk.js.map": "/dedi-ejercicio-uno/static/js/453.1e753b03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.29b38f61.js"
+  ]
+}
