@@ -1,7 +1,7 @@
 import './App.css';
 import React from 'react';
-import Saludo from './componentes/Saludo';
-import Despedida from './componentes/Despedida';
+import Saludo from './components/Saludo';
+import Despedida from './components/Despedida';
 
 function App() {
 
